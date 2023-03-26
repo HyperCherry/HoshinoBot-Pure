@@ -33,15 +33,5 @@ RES_URL = 'http://127.0.0.1:5000/static/'
 # 如欲启用新模块，请认真阅读部署说明，逐个启用逐个配置
 # 切忌一次性开启多个
 MODULES_ON = {
-    'botmanage',
-    'dice',
-    'groupmaster',
-    # 'hourcall',
-    # 'kancolle',
-    # 'mikan',
-    'pcrclanbattle',
-    'priconne',
-    # 'setu',
-    # 'translate',
-    # 'twitter',
+    'botmanage'
 }
